@@ -3,7 +3,8 @@ name: Java CI with Maven develop
 on:
   push:
     branches: develop
-  workflow-dispatch:
+  
+    
 
 jobs:
   build:
